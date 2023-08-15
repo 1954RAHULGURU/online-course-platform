@@ -1,0 +1,44 @@
+.loginCard {
+  padding: 50px;
+  width: 45%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.container {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-align {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.inputbox {
+  width: 100%;
+  height: 30px;
+  margin-top: 5px;
+}
+
+.btnView {
+  background: rgb(12, 115, 210);
+  border: none;
+  width: 100%;
+  padding: 10px;
+  border-radius: 8px;
+  color: white;
+  font-weight: 500;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.btnView:hover {
+  background-color: blueviolet;
+}
+
+.loginCard h2 {
+  text-align: center;
+}
